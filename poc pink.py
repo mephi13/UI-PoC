@@ -100,7 +100,7 @@ def main():
         (user["username"], term.blue_underline("https://www.youtube.com/watch?v=dQw4w9WgXcQ"), datetime(2022, 3 ,21, 11, 34 ,42)),
         (user["username"], "Observe", datetime(2022, 3 ,21, 11, 34 ,35)),
         (bob["username"], "No way dude", datetime(2022, 3 ,21, 11, 34 ,1)),
-        (user["username"], "You know we can posts links here?", datetime(2022, 3 ,21, 11, 33 ,53)),
+        (user["username"], "You know we can post links here?", datetime(2022, 3 ,21, 11, 33 ,53)),
         (bob["username"], "What do you want", datetime(2022, 3 ,21, 11, 32 ,29)),
         (user["username"], "Hi", datetime(2022, 3 ,21, 11, 31 ,59)), 
         (bob["username"], "Hello", datetime(2022, 3 ,21, 11, 31 ,52)),
